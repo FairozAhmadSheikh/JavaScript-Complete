@@ -14,3 +14,15 @@
 # 4. Map()
 # 5. Operations related to Sets ,Maps,Objects and Functions 
 # 6. Function arguments like Default arguments etc 
+
+# index3.js conatins :
+# 1. Advanced Functions
+# 2. Arrow function (=>)
+# 3. One linear Functions
+# 4. Asynchronus Javascript
+# 5. setTimout and setInterval
+# 6. Classes in javascript 
+# 7. Pipe functions,Rest parameters
+# 8. Es5 And Es6
+# 9. Import Export 
+# 10. Default exports
