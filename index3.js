@@ -333,3 +333,12 @@ const ne=pipe(double,square,triple)(2)
 console.log(ne)
 }
 firstpipe();
+// console.log(f)
+// example of something 
+ let l=11;
+ let h=l+19;
+function sum(a,b)
+{
+     console.log(a+b)
+ }
+ sum(l,h);
